@@ -52,22 +52,5 @@ buck-out/
 */fastlane/Preview.html
 */fastlane/screenshots
 
-yarn.lock
-
-# CocoaPods
-ios/Podfile.lock
-#
-# We recommend against adding the Pods directory to your .gitignore. However
-# you should judge for yourself, the pros and cons are mentioned at:
-# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
-#
-ios/Pods
-
-.vscode
-app-release.apk
-output.json
-LoginPageTest.js
-LoginPageTest.js.snap
-FoodStore.test.js
-package-lock.json
-yarn.lock
+# Bundle artifact
+*.jsbundle
